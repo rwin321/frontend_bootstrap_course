@@ -5,7 +5,7 @@ export const Content = () => {
 	return (
 		<div className = 'wrapper'>
 			<div className = 'container'>
-				<div className = 'row'>
+				<div className = 'row row-content align-items-center'>
 					<div className = 'col-12 col-sm-5 col-md-3 order-sm-last'>
 						<h3>
 							Some title
@@ -18,7 +18,7 @@ export const Content = () => {
 						<p>some paragraph</p>
 					</div>
 				</div>
-				<div className = 'row'>
+				<div className = 'row row-content align-items-center'>
 					<div className = 'col-12 col-sm-5 col-md-3'>
 						<h3>
 							Lorem ipsum dolor sit amet
@@ -33,7 +33,7 @@ export const Content = () => {
 						<p>some text</p>
 					</div>
 				</div>
-				<div className = 'row'>
+				<div className = 'row row-content align-items-center'>
 					<div className = 'col-12 col-sm-5 col-md-3 order-sm-last'>
 						<h3>
 							Lorem ipsum dolor sit amet

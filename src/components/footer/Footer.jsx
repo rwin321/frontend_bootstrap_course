@@ -5,11 +5,12 @@ import {NavLink} from 'react-router-dom'
 
 export const Footer = () => {
 	return (
+		<footer className='footer'>
 			<div className = 'container'>
 				<div className='row'>
 					<div className='col-4 offset-1 col-sm-2'>
 						<h5>list paragraph</h5>
-						<ul>
+						<ul className='list-unstyled'>
 							<NavLink to='/'>
 								<li><span>Home</span></li>
 							</NavLink>
@@ -32,9 +33,9 @@ export const Footer = () => {
 							Sheptitsiy 3a, 56, 3
 						</address>
 					</div>
-					<div className='col-12 col-sm-4'>
+					<div className='col-12 col-sm-4 align-self-center'>
 						<h3>Some socilaweb paragraph</h3>
-						<div className='social-links'>
+						<div className='social-links text-center'>
 							<a href = 'https://www.google.com/'>google</a>
 							<a href = 'https://www.google.com/'>google</a>
 							<a href = 'https://www.google.com/'>google</a>
@@ -42,11 +43,12 @@ export const Footer = () => {
 						</div>
 					</div>
 				</div>
-				<div className='row'>
+				<div className='row justify-content-center'>
 					<div className='col-auto'>
 						<small>&copy; Copyright 2058, Example Corporation</small>
 					</div>
 				</div>
 			</div>
+		</footer>
 	)
 }

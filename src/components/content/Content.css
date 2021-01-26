@@ -1,8 +1,11 @@
-.color {
-    color: #297ba4;
-    border: 1px solid black;
+.row-content {
+    margin: 0 auto;
+    padding: 50px 0 50px 0;
+    min-height: 350px;
 }
-.nested {
-    color: #2948fe;
-    border: 1px solid black;
+
+address {
+    font-size: 80%;
+    margin: 0;
+    color: #0f0f0f;
 }

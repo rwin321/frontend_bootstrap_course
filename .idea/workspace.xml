@@ -11,27 +11,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6198aada-326b-4abc-a822-d8232af4ee91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/content/Content.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/content/Content.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/footer/Footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/footer/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/Header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/content/Content.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/content/Content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/content/Content.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/content/Content.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +81,8 @@
       <updated>1611432965829</updated>
       <workItem from="1611432966848" duration="824000" />
       <workItem from="1611434161267" duration="2642000" />
-      <workItem from="1611650581102" duration="7366000" />
+      <workItem from="1611650581102" duration="7875000" />
+      <workItem from="1611678328622" duration="1976000" />
     </task>
     <servers />
   </component>
@@ -109,8 +99,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="581" y="181" key="#Inspections" timestamp="1611679072308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="581" y="181" key="#Inspections/1920.-11.1280.693/-1920.0.1280.680/0.0.1920.1040@0.0.1920.1040" timestamp="1611679072308" />
     <state x="686" y="153" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1611654625123">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
