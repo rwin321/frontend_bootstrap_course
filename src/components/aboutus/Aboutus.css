@@ -1,0 +1,18 @@
+.about-us-row {
+    border-bottom: 1px solid black;
+}
+.about-us-row>div {
+    padding: 1em 0;
+}
+
+.row-history {
+    min-height: 30em;
+}
+
+.list-item {
+    color: lightcyan;
+}
+
+.footer-wrapper {
+    background-color: #9180e5;
+}

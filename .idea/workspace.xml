@@ -11,16 +11,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6198aada-326b-4abc-a822-d8232af4ee91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/aboutus/Aboutus.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/aboutus/aboutus.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/content/Content.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/content/Content.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/content/Content.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/content/Content.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/footer/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +54,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Ervin\courses\COURSERA\frontend_bootstrap_course\src\components\aboutus" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Ervin\courses\COURSERA\frontend_bootstrap_course\src\components\footer" />
     </key>
@@ -82,7 +82,9 @@
       <workItem from="1611432966848" duration="824000" />
       <workItem from="1611434161267" duration="2642000" />
       <workItem from="1611650581102" duration="7875000" />
-      <workItem from="1611678328622" duration="1976000" />
+      <workItem from="1611678328622" duration="2692000" />
+      <workItem from="1611737668627" duration="5684000" />
+      <workItem from="1611768231895" duration="2110000" />
     </task>
     <servers />
   </component>
@@ -122,5 +124,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="335" y="78" key="SettingsEditor/1920.-11.1280.693/-1920.0.1280.680/0.0.1920.1040@0.0.1920.1040" timestamp="1611654640480" />
+    <state x="451" y="186" key="Vcs.Push.Dialog.v2" timestamp="1611680334922">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="451" y="186" key="Vcs.Push.Dialog.v2/1920.-11.1280.693/-1920.0.1280.680/0.0.1920.1040@0.0.1920.1040" timestamp="1611680334922" />
   </component>
 </project>

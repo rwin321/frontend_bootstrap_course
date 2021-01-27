@@ -11,18 +11,18 @@ export const Footer = () => {
 					<div className='col-4 offset-1 col-sm-2'>
 						<h5>list paragraph</h5>
 						<ul className='list-unstyled'>
-							<NavLink to='/'>
-								<li><span>Home</span></li>
-							</NavLink>
-							<NavLink to='/about'>
-								<li><span>About</span></li>
-							</NavLink>
-							<NavLink to='/menu'>
-								<li><span>Menu</span></li>
-							</NavLink>
-							<NavLink to='/contact'>
-								<li><span>Contact</span></li>
-							</NavLink>
+								<li>
+									<NavLink to='/'><span>Home</span></NavLink>
+								</li>
+								<li>
+									<NavLink to='/aboutus'><span>About us</span></NavLink>
+								</li>
+								<li>
+									<NavLink to='/menu'><span>Menu</span></NavLink>
+								</li>
+								<li>
+									<NavLink to='/contact'><span>Contact</span></NavLink>
+								</li>
 						</ul>
 					</div>
 					<div className='col-7 col-sm-5'>
@@ -34,7 +34,7 @@ export const Footer = () => {
 						</address>
 					</div>
 					<div className='col-12 col-sm-4 align-self-center'>
-						<h3>Some socilaweb paragraph</h3>
+						<h3 className='text-center'>Some socilaweb paragraph</h3>
 						<div className='social-links text-center'>
 							<a href = 'https://www.google.com/'>google</a>
 							<a href = 'https://www.google.com/'>google</a>
